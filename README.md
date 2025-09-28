@@ -1,4 +1,4 @@
-# 🎤 FastAPI RAG Chatbot with Audio Upload & FAISS
+# 🤖 Telegram Tech Bot
 
 A **Telegram bot** built with **Aiogram**, **Python**, and **PostgreSQL**.  
 This bot supports user registration, account management, admin/user commands, and interactive workflows.
